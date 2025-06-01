@@ -1,0 +1,88 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment files
+.env
+.venv/
+venv/
+env/
+*.env
+
+# Virtual environment packages
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# VS Code settings
+.vscode/
+
+# macOS metadata
+.DS_Store
+
+# Jupyter runtime files
+*.local/share/jupyter/runtime/
+
+# Data files
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.json
+*.xml
+*.parquet
+*.h5
+*.hdf5
+*.zip
+*.tar
+*.gz
+*.pkl
+*.joblib
+*.db
+
+# Logs
+*.log
+
+# Model files
+*.pt
+*.pth
+*.onnx
+*.pb
+*.tflite
+*.ckpt
+*.sav
+
+# Output directories
+outputs/
+results/
+models/
+checkpoints/
+
+# Test coverage
+.coverage
+htmlcov/
+
+# Python-specific
+.mypy_cache/
+.pytest_cache/
+.cache/
+__pypackages__/
+
+# Jupyter Notebook hidden files
+.jupyter/
+
+# Secrets
+secrets.*
+credentials.*
+
+# VS Code Python extension settings
+.python-version
+
+# IPython history
+.ipython/
